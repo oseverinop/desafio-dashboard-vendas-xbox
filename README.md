@@ -30,3 +30,17 @@ As etapas realizadas no projeto foram:
    - Configuração de **padrões visuais** (cores, formatos, etc.).
 
 Este procedimento também pode ser usado como instruções para Reproduzir o Projeto.
+
+---
+
+## Dashboard Final - Solução do Desafio
+## Download da Planilha
+Você pode acessar a planilha Excel contendo o dashboard através do seguinte link:
+[Dashboard de Vendas do Xbox](https://github.com/oseverinop/desafio-dashboard-vendas-xbox/blob/main/desafio_m5_dashborad_xbox_final.xlsx)
+
+Veja abaixo como ficou a versão final do Dashboard:
+![Dashboard Final](https://github.com/oseverinop/desafio-dashboard-vendas-xbox/blob/main/Imagem%20do%20Dashboard%20Final.png)
+
+---
+
+> Este projeto foi desenvolvido como parte do bootcamp da DIO - Heineken - Inteligência Artificial Aplicada a Dados com Copilot, e é um excelente exemplo de aplicação prática de criação de dashboards com Microsoft Excel.
